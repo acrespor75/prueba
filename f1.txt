@@ -1,3 +1,6 @@
 Esto es fichero 1
 Esta es la segunda línea
-Esto ya acaba aquí.
+Aquí hay otra línea.
+Esto no sé lo que es.
+Esto ya está acabando.
+Chinpun.
