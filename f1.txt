@@ -1,3 +1,4 @@
 Esto es fichero 1
 Esta es la segunda línea
-Esto ya acaba aquí.
+Añado una tercera línea
+Esto ya va a acabar aquí.
